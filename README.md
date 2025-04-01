@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Real-time yoga pose evaluation application**
 
-- 🌱 I’m currently learning **React, Vue, Nest.js,**
+- 🌱 I’m currently learning **React, Vue, Next.js,**
 
 - 📫 How to reach me **liziyi991118@gmail.com**
 
